@@ -1,4 +1,14 @@
-# Student Site Boilerplate
+# Test Your Connections
+
+In this assignment, you will install development dependencies and test your connections.
+
+## Requirements
+
+- [ ] You've installed development dependencies
+- [ ] You've made one change to HTML and one change to CSS
+- [ ] You've opened a pull request to this assignment successfully using VSCode and Tower
+
+## About this repository
 
 Student Site Boilerplate aims to introduce new web development students to
 modern build tools in a simplified manner. The goal of this project is to
