@@ -36,7 +36,7 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 | Use the "Open with Github Desktop" button to open this repository in Tower. | <img width="1904" alt="Screen Shot 2021-08-23 at 6 22 10 PM" src="https://user-images.githubusercontent.com/1828613/130527013-54c1c211-0bb8-4d56-aba7-38711b3138e0.png"> |
 | This is what the window will look like. Hit Clone. | <img width="592" alt="Screen Shot 2021-08-23 at 6 25 26 PM" src="https://user-images.githubusercontent.com/1828613/130527312-6a07dcd0-afc6-4910-b43c-49b49bb7f256.png"> |
 | In Tower, click Repositories, then select your repository, then click "Open". | <img width="1293" alt="Screen Shot 2021-08-23 at 6 29 57 PM" src="https://user-images.githubusercontent.com/1828613/130527732-09a74cc6-cd83-4a04-9758-99273dc3334c.png"> |
-| On the screen that appears, right click the repository, then select **Reveal in Finder** to show the location of the folder on your computer. | <img width="1185" alt="Screen Shot 2021-08-23 at 6 32 22 PM" src="https://user-images.githubusercontent.com/1828613/130527956-551ec249-23f4-45d1-9613-a2cf446410e7.png"> |
+| On the screen that appears, right click Working Copy, then select **Reveal in Finder** to show the location of the folder on your computer. | <img width="1185" alt="Screen Shot 2021-08-23 at 6 32 22 PM" src="https://user-images.githubusercontent.com/1828613/130527956-551ec249-23f4-45d1-9613-a2cf446410e7.png"> |
 
 ### Open the folder in VSCode, and make a change to the HTML
 
