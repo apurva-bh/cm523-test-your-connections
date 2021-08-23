@@ -1,85 +1,45 @@
 # Test Your Connections
 
-In this assignment, you will install development dependencies and test your connections.
-
-## Requirements
-
-- [ ] You've installed development dependencies
-- [ ] You've made one change to HTML and one change to CSS
-- [ ] You've opened a pull request to this assignment successfully using VSCode and Tower
-
-## About this repository
-
-Student Site Boilerplate aims to introduce new web development students to
-modern build tools in a simplified manner. The goal of this project is to
-be able to build and deploy a simple static site right to Github and allow
-students to explore Sass and ES6 without worrying about setting up Babel,
-Webpack, or other build tools.
-
-[Static Site Boilerplate](http://staticsiteboilerplate.com//) is used as a
-starting point for its utility and relative simplicity. All commands are run
-through npm scripts so additional technologies like Grunt, Gulp, Yarn, etc.
-don't have to be taught. Github Pages is used to reduce the overhead of trying
-to find hosting for student projects, and keep progress in one place.
-
-Other modifications include simplifying the output from Webpack to errors
-only so students aren't wading through a pile of success messages to find
-out if their build has successfully deployed to Github Pages and adding HTML5
-linting.
-
-**Static Site Boilerplate Documentation:** [https://docs.staticsiteboilerplate.com/](https://docs.staticsiteboilerplate.com/)
+In this assignment, you'll learn how to use Github, and we'll test your connections.
 
 ## Prerequisites
+- Tower is installed.
+- GitHub is connected to Tower.
 
-- [Node.js and npm (Node Package Manager)](https://nodejs.org/en/) - this repository has been tested through 12.19.0 LTS
-- A code editor of your choice, such as [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
-- A way to connect to and work with Git and Github. If you like having a user interface to do this, I recommend (and personally use) [Tower(https://www.git-tower.com/students/mac).
+## Requirements to Complete This Assignment
+- [ ] You've installed development dependencies
+- [ ] You've added the words "I did it!" to the `h1` tag inside the HTML file (hint: make sure this is _exactly_ what you write inside the `h1` tag)
+- [ ] You've opened a pull request to this assignment successfully using VSCode and Tower
 
-## Installation
+## First: What is Github?
 
-Clone or download this repository using your favorite method (Command Line, GUI such as Tower, etc)
+GitHub is a service that makes it easy to use **version control.** In development, version control helps you track changes to your code, collaborate, and share code with other people. If you've ever worked with the History palette in Photoshop, or made a new copy of a file, GitHub works similarly. It’s used across the software world and beyond to collaborate and maintain the history of projects. 
 
-Change directory to this repository on your computer (path may be different depending on where the repository is located):
+GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. Today, we'll learn how to **clone** a **repository** from GitHub onto your computer, make and save a change, **commit** the change, and then **push** it back to GitHub so I can see your changes and grade them.
 
- ```bash
-cd student-site-boilerplate
- ```
+### New terms
 
-Run `npm install` to install development dependencies, then see `Usage` below.
+- **Git:** The version control system that GitHub is built on.
+- **GitHub:** An online coding community that makes it easy to use Git.
+- **Repository:** A place where your project work happens. Think of it like a project folder on your computer.
+- **Clone:** A way to make a copy of what's on GitHub show up on your computer. Think of it as similar to downloading the code, except you'll see a 
+- **Commit:** A piece of work you or someone else has done. Think of it like saving your work. 
+- **History:** A log of the work that's been done on your project. Think of it like your Photoshop history palette or a crazy powerful undo and redo button - you can jump back and forth to different points in time using history. As long as there is a **commit**, you can roll back to that exact point in time!
+- **Push:** A way to sync commits from your local repository to the GitHub repository. Think of it like hitting a sync button.
 
-## Usage
+## Instructions
 
-- `npm run start`: Start development. Opens a new window in your favorite browser which will refresh when you change your code. Edit your code in the `src` folder.
-- `npm run lint`: Run all linters on your code.
-- `npm run lint:html`: Lint your HTML for possible formatting and coding standards errors using HTML Validate.
-- `npm run lint:styles`: Lint your Sass/CSS styles for possible formatting and coding standards errors using Stylelint.
-- `npm run lint:js`: Lint your JavaScript for possible formatting and coding standards errors using ESLint.
-- `npm run build`: Create a production-ready build of your code to the `dist` folder.
-- `npm run deploy`: Builds and deploys your code to Github Pages.
+### Clone this repository and find it on your computer
 
-## Features
+| Step | Screenshot |
+| --- | --- |
+| Use the "Open with Github Desktop" button to open this repository in Tower. | <img width="1904" alt="Screen Shot 2021-08-23 at 6 22 10 PM" src="https://user-images.githubusercontent.com/1828613/130527013-54c1c211-0bb8-4d56-aba7-38711b3138e0.png"> |
+| This is what the window will look like. Hit Clone. | <img width="592" alt="Screen Shot 2021-08-23 at 6 25 26 PM" src="https://user-images.githubusercontent.com/1828613/130527312-6a07dcd0-afc6-4910-b43c-49b49bb7f256.png"> |
+| In Tower, click Repositories, then select your repository, then click "Open". | <img width="1293" alt="Screen Shot 2021-08-23 at 6 29 57 PM" src="https://user-images.githubusercontent.com/1828613/130527732-09a74cc6-cd83-4a04-9758-99273dc3334c.png"> |
+| On the screen that appears, right click the repository, then select **Reveal in Finder** to show the location of the folder on your computer. | <img width="1185" alt="Screen Shot 2021-08-23 at 6 32 22 PM" src="https://user-images.githubusercontent.com/1828613/130527956-551ec249-23f4-45d1-9613-a2cf446410e7.png"> |
 
-* **Modern Technologies:** Full support for HTML5, JavaScript (Vanilla and ES6) and CSS (Sass and PostCSS)
-* **Built-in Server:** Local development server with hot reloading
-* **Performance Tuning:** CSS and JavaScript transpilation, bundling, autoprefixing, and minification
-* **Image Optimization:** Optimizes images for loading speed
-* **Favicon Generation:** Automatically generates all favicons for Web, Apple and Android devices from one image file
-* **Code Linting:** Full support for JavaScript (ESLint) and CSS (StyleLint) linting
-* **Sitemap & Robots.txt Generation:** Automatically generates a sitemap.xml and robots.txt files
-* **Cutting Edge:** Uses Webpack for processing and bundling your code
-* **Deployment:** Built-in support for deploying `dist` to the `gh-pages` branch. Serve your site right on Github Pages!
+### Open the folder in VSCode, and make a change to the HTML
 
-## Browser Support
-
-* Chrome _\(latest 2\)_
-* Edge _\(latest 2\)_
-* Firefox _\(latest 2\)_
-* Internet Explorer 9+
-* Opera _\(latest 2\)_
-* Safari _\(latest 2\)_
-
-_This  is fully dependent on your code and doesn't mean that Static Site Boilerplate won't work in older browsers, just that we'll ensure compatibility with the ones mentioned above._
-
-## License
-
-The code is available under the [MIT license](LICENSE).
+| Step | Screenshot |
+| --- | --- |
+| Drag and drop the folder from the window that appears into VSCode. | <img width="1118" alt="Screen Shot 2021-08-23 at 6 36 48 PM" src="https://user-images.githubusercontent.com/1828613/130528628-d195d32e-68fe-4909-9c68-2c0489859d6a.png"> |
