@@ -43,3 +43,10 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 | Step | Screenshot |
 | --- | --- |
 | Drag and drop the folder from the window that appears into VSCode. | <img width="1118" alt="Screen Shot 2021-08-23 at 6 36 48 PM" src="https://user-images.githubusercontent.com/1828613/130528628-d195d32e-68fe-4909-9c68-2c0489859d6a.png"> |
+
+### Commit and push your changes to GitHub
+
+| Step | Screenshot |
+| --- | --- |
+| Open Tower, and make sure you are in your Repository view, and that you've clicked "Working Copy". <ol><li>Click “Stage All”</li><li>Write a commit message in the Commit Subject area. Keep it short and descriptive of the changes you made.</li><li>Hit “Commit”. This creates a commit, and your changes will “disappear”.</li></ol> | ![image9](https://user-images.githubusercontent.com/1828613/130551912-d3ffbeca-089d-4311-a2de-d82258eb9676.png) | 
+| This is what that "disappearing" will look like. Don't panic, your changes are still there! You can see they are because now there will be a small arrow with a number. This is how many changes you will be pushing. It's time to **push** your changes. Click the small up arrow to push your changes to GitHub. | ![image6](https://user-images.githubusercontent.com/1828613/130552156-9fd93037-8f3d-479f-a314-40e1d18ee5f8.png) | 
