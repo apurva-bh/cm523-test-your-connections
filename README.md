@@ -43,8 +43,19 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 | Step | Screenshot |
 | --- | --- |
 | Drag and drop the folder from the window that appears into VSCode. | <img width="1118" alt="Screen Shot 2021-08-23 at 6 36 48 PM" src="https://user-images.githubusercontent.com/1828613/130528628-d195d32e-68fe-4909-9c68-2c0489859d6a.png"> |
-| When VSCode opens, you will see your folder as well as the welcome screen. Take a moment to familiarize yourself with the folder. You can also close the welcome screen by hitting the "x" next to Welcome in Open Editors. | <img width="2160" alt="Screen Shot 2021-08-28 at 6 57 02 PM" src="https://user-images.githubusercontent.com/1828613/131233047-e444d4c2-c301-4605-90dc-48e6217f63b3.png">
- |
+| When VSCode opens, you will see your folder as well as the welcome screen. Take a moment to familiarize yourself with the folder. You can also close the welcome screen by hitting the "x" next to Welcome in Open Editors. | <img width="2160" alt="Screen Shot 2021-08-28 at 6 57 02 PM" src="https://user-images.githubusercontent.com/1828613/131233047-e444d4c2-c301-4605-90dc-48e6217f63b3.png"> |
+| Navigate to the HTML file by clicking `src`, then `index.html`. This is where you will work on all projects. <br/><br/> Change the text inside the `<h1>` tag to say "I did it!", and then save the file. | <img width="2160" alt="Screen Shot 2021-08-28 at 7 11 21 PM" src="https://user-images.githubusercontent.com/1828613/131233231-69a492d5-cd16-4d9b-9029-301e5abcd8ae.png"> |
+
+### Preview your changes
+
+The most basic way to preview an HTML file is to open it in a web browser. We'll learn an even easier way to do this in class, but for right now, let's stick with the basics.
+
+| Step | Screenshot |
+| --- | --- |
+| Start by finding the file on your computer. The easiet way to do this in VSCode is to right click (or command click) a file, and then select "Reveal in Finder". | <img width="2160" alt="Screen Shot 2021-08-28 at 7 11 21 PM" src="https://user-images.githubusercontent.com/1828613/131233231-69a492d5-cd16-4d9b-9029-301e5abcd8ae.png"> |
+| Start by finding the file on your computer. The easiet way to do this in VSCode is to right click (or command click) a file, and then select "Reveal in Finder". | <img width="2046" alt="Screen Shot 2021-08-28 at 7 19 50 PM" src="https://user-images.githubusercontent.com/1828613/131233409-2ec59970-2051-47a3-8096-c324fcd310c5.png"> |
+| This will bring up a window with the file highlighted. Double click it to open it in your default browser. I prefer Firefox, and will be teaching using that. You can also use Chrome if you like. I don't recommend Safari because the debugging tools are harder to find and use. | <img width="882" alt="Screen Shot 2021-08-28 at 7 23 48 PM" src="https://user-images.githubusercontent.com/1828613/131233380-92ed7b9d-0efe-4fbe-8166-f77069879224.png"> |
+| If all goes well, you should see your changes! Make sure that you see the words "I did it!" when you open this file. If you do, keep going. If not, check that you saved your work in VSCode. | <img width="2160" alt="Screen Shot 2021-08-28 at 7 26 33 PM" src="https://user-images.githubusercontent.com/1828613/131233451-bc3aa197-1dba-4447-94e7-f2c9e4bceb58.png"> |
 
 ### Commit and push your changes to GitHub
 
