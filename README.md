@@ -7,7 +7,7 @@ In this assignment, you'll learn how to use Github, and we'll test your connecti
 - GitHub is connected to Tower.
 
 ## Requirements to Complete This Assignment
-- [ ] You've installed development dependencies
+- [ ] You've installed Tower, connected it to GitHub, and installed your development dependencies.
 - [ ] You've added the words "I did it!" to the `h1` tag inside the HTML file (hint: make sure this is _exactly_ what you write inside the `h1` tag)
 - [ ] You've opened a pull request to this assignment successfully using VSCode and Tower
 
