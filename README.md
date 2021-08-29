@@ -1,6 +1,6 @@
 # Test Your Connections
 
-In this assignment, you'll learn how to use Github, and we'll test your connections.
+In this assignment, you'll learn how to use GitHub, and we'll test your connections.
 
 ## Prerequisites
 - Tower is installed.
