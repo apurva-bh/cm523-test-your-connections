@@ -14,7 +14,7 @@ In this assignment, you'll learn how to use Github, and we'll test your connecti
 
 ## First: What is Github?
 
-GitHub is a service that makes it easy to use a **version control** system called **Git**. In development, version control helps you track changes to your code, collaborate, and share code with other people. If you've ever worked with the History palette in Photoshop, or made a new copy of a file, GitHub works similarly. It’s used across the software world and beyond to collaborate and maintain the history of projects. 
+**GitHub** is a service that makes it easy to use a **version control** system called **Git**. In development, version control helps you track changes to your code, collaborate, and share code with other people. If you've ever worked with the History palette in Photoshop, or made a new copy of a file, GitHub works similarly. It’s used across the software world and beyond to collaborate and maintain the history of projects. 
 
 GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. Today, we'll learn how to **clone** a **repository** from GitHub onto your computer, make and save a change, **commit** the change, and then **push** it back to GitHub so I can see your changes and grade them.
 
