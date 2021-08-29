@@ -30,6 +30,16 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 
 ## Instructions
 
+Let's see how GitHub will work in our class, and make sure we have everything set up correctly. If you run into a problem, don't worry! We'll troubleshoot it together in our first class.
+
+Here's what you'll be doing, step by step:
+- [Clone this repository and find it on your computer](#clone-this-repository-and-find-it-on-your-computer)
+- [Open the folder in VSCode, and make a change to the HTML](#open-the-folder-in-vscode-and-make-a-change-to-the-html)
+- [Preview your changes](#preview-your-changes)
+- [Commit and push your changes to GitHub](#commit-and-push-your-changes-to-github)
+- [Find your changes on GitHub](#find-your-changes-on-github)
+- [Turn in this assignment in on Blackboard](#turn-in-this-assignment-in-on-blackboard)
+
 ### Clone this repository and find it on your computer
 
 | Step | Screenshot |
