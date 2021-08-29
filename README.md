@@ -24,7 +24,7 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 - **Git:** The version control system that GitHub is built on.
 - **GitHub:** An online coding community that makes it easy to use Git.
 - **Repository:** A place where your project work happens. Think of it like a project folder on your computer.
-- **Clone:** A way to make a copy of what's on GitHub show up on your computer. Think of it as similar to downloading the code, except you'll see a 
+- **Clone:** A way to make a copy of what's on GitHub show up on your computer. Think of it as similar to downloading the code, except you'll be able to see when there are differences between the code that you have on your computer, and the code that is on GitHub.
 - **Commit:** A piece of work you or someone else has done. Think of it like saving your work. 
 - **Push:** A way to sync commits from your local repository to the GitHub repository. Think of it like hitting a sync button.
 
