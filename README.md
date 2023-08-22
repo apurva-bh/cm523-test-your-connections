@@ -3,13 +3,13 @@
 In this assignment, you'll learn how to use GitHub, and we'll test your connections.
 
 ## Prerequisites
-- Tower is installed.
-- GitHub is connected to Tower.
+- GitHub Desktop is installed.
+- GitHub is connected to GitHub Desktop.
 
 ## Requirements to Complete This Assignment
-- [ ] You've installed Tower, connected it to GitHub, and installed your development dependencies.
+- [ ] You've installed GitHub Desktop, connected it to GitHub, and installed your development dependencies.
 - [ ] You've added the words "I did it!" to the `h1` tag inside the HTML file using VSCode (hint: make sure this is _exactly_ what you write inside the `h1` tag)
-- [ ] You've pushed your changes to GitHub using Tower
+- [ ] You've pushed your changes to GitHub using GitHub Desktop
 - [ ] You've found your changes on GitHub, and learned what feedback will look like!
 
 ## First: What is Github?
@@ -44,7 +44,7 @@ Here's what you'll be doing, step by step:
 
 | Step | Screenshot |
 | --- | --- |
-| Use the "Open with Github Desktop" button to open this repository in Tower. | <img width="1904" alt="Screen Shot 2021-08-23 at 6 22 10 PM" src="https://user-images.githubusercontent.com/1828613/130527013-54c1c211-0bb8-4d56-aba7-38711b3138e0.png"> |
+| Use the "Open with Github Desktop" button to open this repository in GitHub Desktop. | <img width="1904" alt="Screen Shot 2021-08-23 at 6 22 10 PM" src="https://user-images.githubusercontent.com/1828613/130527013-54c1c211-0bb8-4d56-aba7-38711b3138e0.png"> |
 | This is what the window will look like. Hit **Clone**. | <img width="592" alt="Screen Shot 2021-08-23 at 6 25 26 PM" src="https://user-images.githubusercontent.com/1828613/130527312-6a07dcd0-afc6-4910-b43c-49b49bb7f256.png"> |
 | In Tower, click Repositories, then select your repository, then click "Open". | <img width="1293" alt="Screen Shot 2021-08-23 at 6 29 57 PM" src="https://user-images.githubusercontent.com/1828613/130527732-09a74cc6-cd83-4a04-9758-99273dc3334c.png"> |
 | On the screen that appears, right click Working Copy, then select **Reveal in Finder** to show the location of the folder on your computer. | <img width="1185" alt="Screen Shot 2021-08-23 at 6 32 22 PM" src="https://user-images.githubusercontent.com/1828613/130527956-551ec249-23f4-45d1-9613-a2cf446410e7.png"> |
