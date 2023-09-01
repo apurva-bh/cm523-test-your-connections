@@ -81,13 +81,10 @@ The most basic way to preview an HTML file is to open it in a web browser. We'll
 
 | Step | Screenshot |
 | --- | --- |
-| Now that the changes are on GitHub, let's go back and see them. Refresh this page and check out the top of the page. Your commit will now be at the top of the code tab! | <img width="1703" alt="Screen Shot 2021-08-28 at 7 45 17 PM" src="https://user-images.githubusercontent.com/1828613/131233702-67b9d488-3422-4e9b-83a8-dc1868ad5145.png"> | 
-| There are other tabs in GitHub too. The one we'll use the most is the Pull Requests tab. This is where you'll find feedback on your code. Click "Pull Requests" to see an example pull request. | <img width="1700" alt="Screen Shot 2021-08-28 at 7 48 22 PM" src="https://user-images.githubusercontent.com/1828613/131233729-6565c0cc-508f-4922-bc9a-18891e6d123d.png"> | 
-| To start, GitHub will create a pull request for you. Eventually, you'll learn to do this too! For now, just click on "Feedback". | <img width="1714" alt="Screen Shot 2021-08-28 at 7 50 39 PM" src="https://user-images.githubusercontent.com/1828613/131233770-834ae079-5ec5-4374-a60d-100cb0e112a0.png"> | 
-| On the feedback screen, click on "Files changed". This is where you'll eventually see feedback from me next to your code changes! For now, you won't see anything. **Copy the link to this pull request page from your browser for the next step.** | <img width="1701" alt="Screen Shot 2021-08-28 at 7 55 38 PM" src="https://user-images.githubusercontent.com/1828613/131233849-8ddc64a9-7ce5-4138-b156-ca2fbbbecf93.png"> | 
+| Now that the changes are on GitHub, let's go back and see them. Refresh this page and check out the top of the page. Your commit will now be at the top of the code tab! There are other tabs in GitHub too, which we'll learn about later. If you see your commit, you're ready to submit. | <img width="1703" alt="Screen Shot 2021-08-28 at 7 45 17 PM" src="https://user-images.githubusercontent.com/1828613/131233702-67b9d488-3422-4e9b-83a8-dc1868ad5145.png"> | 
 
-### Turn in this assignment in on Blackboard
+### Turn the assignment in on Gradescope and get feedback
 
-Now that you've found your pull request, send me a link to it on Blackboard (the same way you started this assignment!) to get it in my grading pile and complete the assignment. 
+Now that you know your code is on GitHub, return to Blackboard and use the Gradescope submission link to turn in your assignment.
 
 **Congratulations - you've made your first steps in modern web development!** 🎉 This may feel like a lot now, but this process will become second nature in no time and you'll have lots of opportunities to practice these steps in this class. Be patient and keep at it, and take notes as you go to help you remember the steps. With each assignment, I'll condense steps you've already been through a little more so you have a chance to rely on your memory, and can really focus on the new pieces you're learning. By the time we get to the midterm, you'll be a pro at this - and you'll be ready to start collaborating with your classmates on code for the final project!
